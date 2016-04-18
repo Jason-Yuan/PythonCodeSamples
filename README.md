@@ -11,7 +11,9 @@ Keywords:
 * Scikit-Learn
 * Pandas
 
-## 2. Flask APP
+## 2. Fixing Mojibake in *.cue file
 Keywords:
-* Flask
-* Python
+* unicode/Str
+* encode/decode
+* .cue file
+* chinese characters
